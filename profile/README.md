@@ -1,12 +1,21 @@
-## Hi there 👋
+# Hey. Welcome to Aency
+Aency is an independent technology organization focused on building
+open-source tools, developer utilities, and experimental systems.
 
-<!--
+We operate as a lab, not an agency.
+**Code comes first. Hype does not.**
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What we do
+- Open-source software and tooling
+- CLIs, TUIs, and terminal-focused projects
+- Systems experimentation and infrastructure utilities
+- Developer-first products with long-term intent
+
+Aency functions as an organization that hosts multiple independent projects.
+Each repository is treated as a product, with clear goals and ownership.
+
+Some projects are experimental.
+Some are stable.
+**All are real.**
